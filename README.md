@@ -5,20 +5,10 @@
 
 <b>Languages:</b> C++ , C , Python , Java , JavaScript <i>(basics)</i>
 
-<table align="center">
-  <tr>
-    <td>
-      <a align="center" href="https://github.com/anuraghazra/github-readme-stats" title="github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=sumanthreddy07&show_icons=true&count_private=true&include_all_commits=true)" alt="Sumanth's Github Stats">
-      </a>
-    </td>
-    <td>
-      <a align="center" href="https://github.com/anuraghazra/github-readme-stats" title="github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddy07&show_icons=true" alt="Sumanth's Top Languages">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanthreddy07&show_icons=true&count_private=true&include_all_commits=true)" alt="Sumanth's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddy07&show_icons=true" alt="Sumanth's Top Languages">
+</div>
 
 <p align="center">                                                                                                                  
   <a align="right" href="https://github.com/DenverCoder1/github-readme-streak-stats" title="github-readme-streak-stats">
