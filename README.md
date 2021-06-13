@@ -5,15 +5,17 @@
 
 <b>Languages:</b> C++ , C , Python , Java , JavaScript <i>(basics)</i>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanthreddy07&show_icons=true&count_private=true&include_all_commits=true)" alt="Sumanth's Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddy07&show_icons=true" alt="Sumanth's Top Languages">
-</div>
 
 <p align="center">                                                                                                                  
-  <a align="right" href="https://github.com/DenverCoder1/github-readme-streak-stats" title="github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthreddy07" alt="Sumanth's Streaks">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddy07&show_icons=true&layout=compact" alt="Sumanth's Top Languages">
+</p>
+
+<p align="center">                                                                                                                  
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanthreddy07&show_icons=true&count_private=true&include_all_commits=true)" alt="Sumanth's Github Stats">  
+</p>
+
+<p align="center">                                                                                                                  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthreddy07" alt="Sumanth's Streaks">
 </p>
 
 <h3>Connect with Me:</h3>
