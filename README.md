@@ -6,12 +6,10 @@
 <b>Languages:</b> C++ , C , Python , Java , JavaScript <i>(basics)</i>
 
 
-<p align="center">                                                                                                                  
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddy07&show_icons=true&layout=compact" alt="Sumanth's Top Languages">
-</p>
-
-<p align="center">                                                                                                                  
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanthreddy07&show_icons=true&count_private=true&include_all_commits=true)" alt="Sumanth's Github Stats">  
+                                                                                                               
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanthreddy07&show_icons=true&count_private=true&include_all_commits=true)" alt="Sumanth's Github Stats">
 </p>
 
 <p align="center">                                                                                                                  
