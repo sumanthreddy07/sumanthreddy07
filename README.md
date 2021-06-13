@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Sumanth Reddy👋</h1>
 <h2 align="center">Final Year Computer Science student at National Institute of Technology, Karnataka, India</h2>
-<hr>
+
 <h3 align="center">Competitive Programmer | Machine Learning Enthusiast | Front End Developer</h3>
 
 <b>Languages:</b> C++ , C , Python , Java , JavaScript <i>(basics)</i>
