@@ -3,8 +3,6 @@
 
 <h3 align="center">Competitive Programmer | Machine Learning Enthusiast | Front End Developer</h3>
 
-<b>Languages:</b> C++ , C , C#, Python , Java , JavaScript <i>(basics)</i>
-
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddy07&show_icons=true&layout=compact" alt="Sumanth's Top Languages">
